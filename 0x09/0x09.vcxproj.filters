@@ -36,8 +36,23 @@
     <ClCompile Include="10026.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2206.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="5427.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="7562.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="7569.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="4179.md" />
+    <None Include="5427.md" />
+    <None Include="7569.md" />
+    <None Include="2206.md" />
   </ItemGroup>
 </Project>
