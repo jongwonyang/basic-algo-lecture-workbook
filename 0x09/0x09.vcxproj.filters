@@ -51,6 +51,12 @@
     <ClCompile Include="9466.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2573.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2146.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="4179.md" />
@@ -58,5 +64,6 @@
     <None Include="7569.md" />
     <None Include="2206.md" />
     <None Include="9466.md" />
+    <None Include="2146.md" />
   </ItemGroup>
 </Project>
