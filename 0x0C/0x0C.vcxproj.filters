@@ -60,6 +60,12 @@
     <ClCompile Include="6603.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1941.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="16987.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="15663.md" />
