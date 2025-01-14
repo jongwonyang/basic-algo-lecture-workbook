@@ -36,6 +36,12 @@
     <ClCompile Include="14499.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="13335.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="16985.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="15683.md" />
