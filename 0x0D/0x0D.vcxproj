@@ -136,7 +136,13 @@
     <ClCompile Include="13335.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="13460.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="14499.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="14500.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="14503.cpp">
@@ -163,7 +169,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="12100.md" />
+    <None Include="13460.md" />
     <None Include="14499.md" />
+    <None Include="14500.md" />
     <None Include="14503.md" />
     <None Include="14891.md" />
     <None Include="15683.md" />
