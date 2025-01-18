@@ -54,6 +54,24 @@
     <ClCompile Include="13460.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="14502.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="14888.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="14889.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="14890.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="15684.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="15685.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="15683.md" />
@@ -65,5 +83,9 @@
     <None Include="14503.md" />
     <None Include="14500.md" />
     <None Include="13460.md" />
+    <None Include="14502.md" />
+    <None Include="14889.md" />
+    <None Include="14890.md" />
+    <None Include="15685.md" />
   </ItemGroup>
 </Project>
